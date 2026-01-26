@@ -39,7 +39,7 @@ A home server built with recycled parts is, essentially, a repurposed computer t
 
 ### What does it consist of?
 
-It is built using PC components that are no longer in use—older CPUs and motherboards, DDR3 memory, used hard drives—assembled into a standard case.
+It is built using PC components that are no longer in use, older CPUs and motherboards, DDR3 memory, used hard drives, assembled into a standard case.
 
 On this hardware, one of the following specialized systems will be installed:
 
