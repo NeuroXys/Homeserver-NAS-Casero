@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&background=FFFFFF3E&center=true&vCenter=true&width=435&lines=Homeserver+NAS+casero+con+hardware+reciclado" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Homeserver+NAS+casero+con+hardware+reciclado" alt="Typing SVG" /></a>
 
 *Ejemplo de un proyecto de Homeserver Casero, donde se contemplarán distintos scripts.*
 
