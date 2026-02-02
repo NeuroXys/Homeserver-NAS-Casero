@@ -121,4 +121,4 @@ Proper port management, HTTPS implementation via Let's Encrypt certificates, and
 
 * Samba Team. (2023). Samba Project Documentation. https://www.samba.org/samba/docs/
 
-<details>
+</details>
