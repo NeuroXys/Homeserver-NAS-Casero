@@ -64,9 +64,7 @@ This home server will host multiple services at the same time, for example:
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-png.png
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+![CC BY-SA 4.0](https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-svg.svg)
 
 ![cc-by-sa](https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-png.png)
 
