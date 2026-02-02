@@ -62,7 +62,8 @@ This home server will host multiple services at the same time, for example:
 * Remote digital library.
 
 This work is licensed under a  
-![CC BY-SA 4.0](https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-svg.svg)
+
+![CC BY-SA 4.0](https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-svg.svg)  
 
 ![cc-by-sa](https://github.com/NeuroXys/Homeserver-NAS-Casero/blob/main/IMAGENES/cc-sa-png.png)
 
