@@ -1,4 +1,4 @@
-# Este estado del arte es una documentación inicial sujeta a cambios, dependiendo del software final utilizado.
+# Este estado del arte es una documentación inicial sujeto a cambios, dependiendo del software final utilizado.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Estado+del+arte" alt="Typing SVG" /></a>
 
