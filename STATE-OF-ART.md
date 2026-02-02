@@ -1,6 +1,6 @@
 # Este estado del arte es una documentación inicial sujeta a cambios, dependiendo del software final utilizado.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Estado+del+arte" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Estado+del+arte" alt="Typing SVG" /></a>
 
 La creciente demanda de soluciones de almacenamiento, gestión de medios digitales y virtualización accesibles ha impulsado el desarrollo de servidores domésticos (homeservers). Estas infraestructuras, gestionadas en el ámbito personal o familiar, permiten centralizar servicios digitales como la transferencia de archivos, gestión de máquinas virtuales, servidores multimedia y bibliotecas digitales, manteniendo la privacidad, la eficiencia y la autonomía tecnológica del usuario.
 
@@ -55,7 +55,7 @@ La gestión de puertos, el uso de HTTPS mediante certificados Let's Encrypt y el
 
 # Work in Progress
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=State+of+art" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=State+of+art" alt="Typing SVG" /></a>
 
 The growing demand for accessible solutions for storage, digital media management, and virtualization has driven the development of home servers. These infrastructures, managed within a personal or household setting, enable the centralization of digital services such as file transfer, virtual machine hosting, multimedia streaming, and digital library access—ensuring user privacy, operational efficiency, and technological self-reliance.
 
