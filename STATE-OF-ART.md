@@ -1,0 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Estado+del+arte" alt="Typing SVG" /></a>
+
+La creciente demanda de soluciones de almacenamiento, gestión de medios digitales y virtualización accesibles ha impulsado el desarrollo de servidores domésticos (homeservers). Estas infraestructuras, gestionadas en el ámbito personal o familiar, permiten centralizar servicios digitales como la transferencia de archivos, gestión de máquinas virtuales, servidores multimedia y bibliotecas digitales, manteniendo la privacidad, la eficiencia y la autonomía tecnológica del usuario.
+
+En este contexto, plataformas como Proxmox VE y TrueNAS destacan por ser opciones "gratuitas" que facilitan la virtualización y el almacenamiento en red, respectivamente. En el presente estado del arte se analizarán herramientas representativas para la implementación de cada servicio, optando por Proxmox VE como sistema operativo anfitrión, dada su flexibilidad y soporte para contenedores (LXC) y máquinas virtuales (KVM).
